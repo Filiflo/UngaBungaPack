@@ -1,0 +1,13 @@
+name = "MCServ"
+author = "filiflo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6559a120c18a81b0141cd175f50270577271a1ee1207cf78c1d9242a38cead4f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.173"
