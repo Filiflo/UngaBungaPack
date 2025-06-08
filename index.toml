@@ -166,11 +166,6 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "a449aef5f6be6551710aa6ca5f79e66711c9c5a0e08679acf765cfda5147162e"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
 metafile = true
