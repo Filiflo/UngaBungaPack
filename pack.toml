@@ -1,13 +1,13 @@
-name = "UngaBunga"
-author = "filiflo"
+name = "UngaBungaPack"
+author = "Filiflo"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "93f58d4c2ff9053c75dc6cdc0f3ab1e05d8d50464f17100df76d17bcf763429e"
+hash = "6900934027189b81c58158b66371917f3a21bbfb05f8ddc44b8b697f273865ab"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.173"
+neoforge = "21.1.176"
