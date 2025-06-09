@@ -26,11 +26,6 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
-metafile = true
-
-[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "80e5ab79ece0ab24f29e80c9596149863380e614d6326d4faa76a3d6c6c9577a"
 metafile = true
@@ -218,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/tempad.pw.toml"
 hash = "9e2a80744672102d9f5cde3366e6089e70f5c46309bf0533bc33cc96701c6adc"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "73468a258a4bbfadc20d17511846b87e76a163e475330e052a0b0a8425f61a29"
 metafile = true
 
 [[files]]
