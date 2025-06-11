@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -31,6 +36,11 @@ hash = "80e5ab79ece0ab24f29e80c9596149863380e614d6326d4faa76a3d6c6c9577a"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
+metafile = true
+
+[[files]]
 file = "mods/clean-tooltips.pw.toml"
 hash = "bfae48d707113dd178b25b16620c8f4bf5a27ea82c9b1975edeb89a7f196048d"
 metafile = true
@@ -43,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "2246d8edb64b6047e6fe0a1e0f12b5bfa81e238110e4685d584e449297cf2b02"
 metafile = true
 
 [[files]]
@@ -73,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
+metafile = true
+
+[[files]]
+file = "mods/create-more-additions.pw.toml"
+hash = "d43648a813c69d2abdee4a9d72c887e84af148fc47fea160be08ffe28ece97d6"
 metafile = true
 
 [[files]]
@@ -156,6 +176,16 @@ hash = "3c36b43437ffe6971f36c2cb7793fb41c7cc790b45b739ed209f2dd51ed5bd6d"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "cd6722988536fc6a348afbb17aabbf4bba8c5a8ebd7287e6e4dd7e26647c99cb"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "37a1086360571a34cfadd0088cd331b405857c942b5611caafebc27fb8ea1a42"
 metafile = true
@@ -178,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "d94f05f57f4a981d3e0fda30b3def484cee5715edc48d8a2a0c8173008a125ea"
 metafile = true
 
 [[files]]
