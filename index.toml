@@ -106,11 +106,6 @@ hash = "f3d9737e7a571510c0a464f051d2d842ca018c05ad91eb52f6d4726e17edf6f1"
 metafile = true
 
 [[files]]
-file = "mods/create-curios-jetpack.pw.toml"
-hash = "bbab979ad6cdd4db63984a008e419ed3d9632783701c45d4abc6bf9d03840887"
-metafile = true
-
-[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
 metafile = true
@@ -123,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true
 
 [[files]]
@@ -148,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c5ffade2f283a235d919ba957f5783fc0f5ca454242c7f0cd71ad600c59c899e"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
 
 [[files]]
