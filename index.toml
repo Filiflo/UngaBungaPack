@@ -276,11 +276,6 @@ hash = "e46bed83d1578fc626e95518d8415b53b9150ff69f2de4a3445a215f1b474699"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "bb86f04efd579c6915a80c9e82a27765901c188effdd56ddb32a660cd19b2259"
-metafile = true
-
-[[files]]
 file = "mods/invmove.pw.toml"
 hash = "2235350d913f0e3ded91a238a5224d35a883c80dbdf1fd9d97fc363b20137ef9"
 metafile = true
