@@ -1,0 +1,13 @@
+name = "Monster of the Night Skies"
+filename = "Monster-of-the-Night-Skies-NeoForge-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KXxZT4tX/versions/VGE8V10q/Monster-of-the-Night-Skies-NeoForge-0.1.4.jar"
+hash-format = "sha512"
+hash = "e51e3eaab1e805fe23665dcf6fe6e7b4130269bb850fef469824ca5ba8c2063f42d0a8ea57f56a7ad493bb95f239b6a2fd0ab5166d699d163471ba2c662c2f2f"
+
+[update]
+[update.modrinth]
+mod-id = "KXxZT4tX"
+version = "VGE8V10q"
