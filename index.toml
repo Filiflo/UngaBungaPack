@@ -96,6 +96,11 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "5278f89a988809a740f83918bf3114bf3c1631d0eb471d534f6d67c3f536ad19"
+metafile = true
+
+[[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "2246d8edb64b6047e6fe0a1e0f12b5bfa81e238110e4685d584e449297cf2b02"
 metafile = true
@@ -366,6 +371,11 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -381,8 +391,18 @@ hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
