@@ -111,11 +111,6 @@ hash = "5278f89a988809a740f83918bf3114bf3c1631d0eb471d534f6d67c3f536ad19"
 metafile = true
 
 [[files]]
-file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "2246d8edb64b6047e6fe0a1e0f12b5bfa81e238110e4685d584e449297cf2b02"
-metafile = true
-
-[[files]]
 file = "mods/create-bionics.pw.toml"
 hash = "1effbc1990ce403c8da4042b911fba380a75c7e947977116ca5262cd94cb1f9a"
 metafile = true
