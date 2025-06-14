@@ -421,16 +421,6 @@ hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "37fdead74cc620b1b42a4bdbd94c2ff1f2751f123422fc62d74596b5aefbe35c"
-metafile = true
-
-[[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "b1286a6fc051567b6e3ea70ab7f089b23f94b2c5085aea2c34b5c2073089a1d3"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "90d5ebd43ae612e60dbfaad5232d5fdd905ac8af40bba5c420253d7d55043c1e"
 metafile = true
