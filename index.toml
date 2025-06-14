@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
+hash = "6552d36c2fe6b88f482bc9ff4b3097e044374001646b2b0ccea3d725da18174f"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
+hash = "70e420a2d0b40b40d660dbb71e77d738a3bcdc6475f59706a716c39c7cb85ef1"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
-hash = "67422fb0ab5a5ae646fb99077e83282c2e13e29749611bcb64bbbe02ccdb644a"
+hash = "3ef804d2eaad24c11a3d5d450fa7c2e065bb0f4e1d5d4f2e98f454f3eacaed1d"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "0403152702ae32210bf5804a8912e584d19c4b8bcea71662a8e2b9cbb14f35c4"
+hash = "824ad69ece2067deafdb855b08173e9ca0ed665fb6be0be0f3d724d553744e9b"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "ac35da1dc81ea20b64ca1925a9b7936bf8a4adba174da8c765d636e954a72a8e"
+hash = "c1f0cdc56731426c7298687be2ed89160cf752db7c33fd7d183b65945fa0f560"
 metafile = true
 
 [[files]]
@@ -567,5 +567,5 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "b35e1b58a78dba71421b5e43b2328515f4d7feb2dbe64996e1b14d7c923bf476"
+hash = "7d79369f917b6b8432fd04cda858f7826aba89440b4d120177d494b6787a38ba"
 metafile = true

@@ -1,13 +1,13 @@
 name = "Sparkweave Engine"
-filename = "Sparkweave-NeoForge-0.509.1.jar"
+filename = "Sparkweave-NeoForge-0.509.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nf68xfAw/versions/e8PZPbeO/Sparkweave-NeoForge-0.509.1.jar"
+url = "https://cdn.modrinth.com/data/nf68xfAw/versions/JwrYsg9W/Sparkweave-NeoForge-0.509.2.jar"
 hash-format = "sha512"
-hash = "383851d5e8fe276a43eaa7c6ceaf5954a76b58af236e3e48cbd50606689058c7c387ae439bd9334585ae6d7215c5b2174218ea5bc955766d3634bb513883663f"
+hash = "1dc4f2ff359bdf29a809c316e19a4fe028100e373aab76d94df052160c6c2c660a71fabe80ced0d46e4264e1079b3b7356518450a8baa9137390f5b446a5b404"
 
 [update]
 [update.modrinth]
 mod-id = "nf68xfAw"
-version = "e8PZPbeO"
+version = "JwrYsg9W"
