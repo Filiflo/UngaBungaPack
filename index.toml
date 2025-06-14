@@ -86,13 +86,18 @@ hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
+hash = "6552d36c2fe6b88f482bc9ff4b3097e044374001646b2b0ccea3d725da18174f"
 metafile = true
 
 [[files]]
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
+hash = "70e420a2d0b40b40d660dbb71e77d738a3bcdc6475f59706a716c39c7cb85ef1"
 metafile = true
 
 [[files]]
@@ -187,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
-hash = "67422fb0ab5a5ae646fb99077e83282c2e13e29749611bcb64bbbe02ccdb644a"
+hash = "3ef804d2eaad24c11a3d5d450fa7c2e065bb0f4e1d5d4f2e98f454f3eacaed1d"
 metafile = true
 
 [[files]]
@@ -202,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
@@ -311,6 +316,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "37a1086360571a34cfadd0088cd331b405857c942b5611caafebc27fb8ea1a42"
 metafile = true
@@ -332,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "0403152702ae32210bf5804a8912e584d19c4b8bcea71662a8e2b9cbb14f35c4"
+hash = "824ad69ece2067deafdb855b08173e9ca0ed665fb6be0be0f3d724d553744e9b"
 metafile = true
 
 [[files]]
@@ -408,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/overbalanced.pw.toml"
 hash = "e24153d95900314c5d9735c1c8dd278839db4215fa956f1351d5e97f2dafeced"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
@@ -507,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "ac35da1dc81ea20b64ca1925a9b7936bf8a4adba174da8c765d636e954a72a8e"
+hash = "c1f0cdc56731426c7298687be2ed89160cf752db7c33fd7d183b65945fa0f560"
 metafile = true
 
 [[files]]
@@ -528,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "73468a258a4bbfadc20d17511846b87e76a163e475330e052a0b0a8425f61a29"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "ca00c607725cef4fb876dec894efaf10caef9c3d3c0b33e2643228280f146d5d"
 metafile = true
 
 [[files]]
@@ -557,5 +577,5 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "b35e1b58a78dba71421b5e43b2328515f4d7feb2dbe64996e1b14d7c923bf476"
+hash = "7d79369f917b6b8432fd04cda858f7826aba89440b4d120177d494b6787a38ba"
 metafile = true
