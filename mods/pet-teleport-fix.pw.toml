@@ -1,0 +1,13 @@
+name = "Ray's Pet Teleport Fix"
+filename = "Ray's Pet Teleport Fix v1.3 [Fabric-Forge].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QZ5S10DM/versions/UUNxSnCp/Ray%27s%20Pet%20Teleport%20Fix%20v1.3%20%5BFabric-Forge%5D.jar"
+hash-format = "sha512"
+hash = "b8659405c6050e22aee3bae7fce1de84874ddc234338222a87f3a3e6648d386d271f5829e87fe1c3888cf3eb54704087cd3d8fb96d2b71187e6d2cf45a56617a"
+
+[update]
+[update.modrinth]
+mod-id = "QZ5S10DM"
+version = "UUNxSnCp"

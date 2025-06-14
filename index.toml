@@ -111,6 +111,16 @@ hash = "2246d8edb64b6047e6fe0a1e0f12b5bfa81e238110e4685d584e449297cf2b02"
 metafile = true
 
 [[files]]
+file = "mods/create-bionics.pw.toml"
+hash = "1effbc1990ce403c8da4042b911fba380a75c7e947977116ca5262cd94cb1f9a"
+metafile = true
+
+[[files]]
+file = "mods/create-cardboarded-conveynience.pw.toml"
+hash = "a75366f4e1b59905865a4f848ff5dc3a591b92b12483fdc8c1be10bbf5e85d09"
+metafile = true
+
+[[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "f3d9737e7a571510c0a464f051d2d842ca018c05ad91eb52f6d4726e17edf6f1"
 metafile = true
@@ -126,8 +136,18 @@ hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-plus.pw.toml"
+hash = "1165e2f94bf27b41cf7ff24e6e4a217bd661755f2b894db26e2ec1eafe752231"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "01ba110405e8949787002b55c62a1aba202411be665180b01db74c096f67d891"
 metafile = true
 
 [[files]]
@@ -136,8 +156,18 @@ hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
 
 [[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "4497b6af5473973dfa37391480671b98d5defc5035f9959f9ab4754bdac9b195"
+metafile = true
+
+[[files]]
 file = "mods/create-more-additions.pw.toml"
 hash = "d43648a813c69d2abdee4a9d72c887e84af148fc47fea160be08ffe28ece97d6"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "6cf53d31ef36522ed9fd8273a94a5ca71af7cf986fc79733448f9eaa07862ac1"
 metafile = true
 
 [[files]]
@@ -176,6 +206,11 @@ hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
 metafile = true
 
 [[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "cbf6fbea46b6dc3d76fbd6aa3b221dd58aadebf284039748426dd9c94e5b8e84"
+metafile = true
+
+[[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
@@ -187,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/createbetterfps.pw.toml"
-hash = "87aa1394bc5c0211ac0b39b669b08219b00faae6a442efde762da18238afbcce"
+hash = "c3b470a8b102c0b6608492721b34c3cdfe4506621d0d8b05ad2c9f0371e9fa41"
 metafile = true
 
 [[files]]
@@ -246,6 +281,16 @@ hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "0000f47bdfffab7f0a030230eb77014330fed2fb10e4b0ad3837ccf265622529"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "573575b0b4202963b4bc06ec71f5447ae568fe89291bfb6dbd0717cd0e047259"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -268,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "37a1086360571a34cfadd0088cd331b405857c942b5611caafebc27fb8ea1a42"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "ffe519f8039dff5796c5123e98b327001d2f340da35850810f3421d46ded0abc"
 metafile = true
 
 [[files]]
@@ -353,6 +403,26 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/overbalanced.pw.toml"
+hash = "e24153d95900314c5d9735c1c8dd278839db4215fa956f1351d5e97f2dafeced"
+metafile = true
+
+[[files]]
+file = "mods/pet-teleport-fix.pw.toml"
+hash = "7dc4e569f56c37decbe356fc8012a7df8ac643b0eb39725017ccf063076d9035"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "37fdead74cc620b1b42a4bdbd94c2ff1f2751f123422fc62d74596b5aefbe35c"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "b1286a6fc051567b6e3ea70ab7f089b23f94b2c5085aea2c34b5c2073089a1d3"
 metafile = true
 
 [[files]]
