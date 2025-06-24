@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "a1f94f4240099416eaae8718585759672b32a11edaaad3fa85e74c2b3820a0bc"
+hash = "0ab2d02d164657b3126b79113e5a4fb9611fbc0c5f89c39aed037677cef1bd50"
 metafile = true
 
 [[files]]
@@ -126,13 +126,23 @@ hash = "f3d9737e7a571510c0a464f051d2d842ca018c05ad91eb52f6d4726e17edf6f1"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "bbab979ad6cdd4db63984a008e419ed3d9632783701c45d4abc6bf9d03840887"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
 metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "0eb681f4eccd8aa71ef65ce5f5f48d2a09beb24f5844ad3f6cae517eec45822f"
+hash = "b299e9a1001b2a035f93a1e2cc0873f648032b31f89b1aaea24af98eab6f9d61"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "023f51b06f59137fc3387d67830f0584de7969c84bba5990ff83f7b33448d305"
 metafile = true
 
 [[files]]
@@ -151,6 +161,11 @@ hash = "89c94f8d0cbc5742a04b3a3952701a756378d6b1aa007b8fe46a02ebf847c8ca"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
@@ -166,6 +181,16 @@ hash = "d43648a813c69d2abdee4a9d72c887e84af148fc47fea160be08ffe28ece97d6"
 metafile = true
 
 [[files]]
+file = "mods/create-more-linked-remote.pw.toml"
+hash = "da176dab9762941cc75e734c9661f5d75b1ff7f1e7dc80aeb39485fea0a98a67"
+metafile = true
+
+[[files]]
+file = "mods/create-more-parallel-pipes.pw.toml"
+hash = "fa5d4204bb50c6dd1ad551d6c1391b1143e6955a8a120876ade7a72c415dd9e2"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "6cf53d31ef36522ed9fd8273a94a5ca71af7cf986fc79733448f9eaa07862ac1"
 metafile = true
@@ -173,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
+file = "mods/create-qol.pw.toml"
+hash = "7812c76dc36531286c56c6cd712f27ee0142059cb175bdceadba95055a2956bd"
 metafile = true
 
 [[files]]
@@ -222,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4c4f1147928056651c4e92e20a510556053447776c322381bc0bd5d1f0f738e3"
+hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
 metafile = true
 
 [[files]]
@@ -243,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "3b4237230c3529e8d4bb17755b68c4283e4f6e178e183a20e9256a474d56e832"
-metafile = true
-
-[[files]]
-file = "mods/easy-auto-cycler.pw.toml"
-hash = "55a70ffa779198ad8aafea9f8565dfe0c70b2681f9151da96cac73bce7ff1d41"
 metafile = true
 
 [[files]]
@@ -272,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
+hash = "24a7bd108a54ab9a536c49395930f8f4ef856ab8c61a55f9cdade5fe39dc6bae"
 metafile = true
 
 [[files]]
@@ -317,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "f1d9978fc5c1acd5673dd32f4717c630feb83faa6f6550847051d2cb65ea9e1f"
+hash = "51931cb57d3a84798e5c6238959e8a363ddaad9fc96014991663ab929605ee0a"
 metafile = true
 
 [[files]]
@@ -397,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5b81cd94da55977b3fd23ae3cf6cb2f2b09d1c1194b81065a79f1e3e6c725f48"
+hash = "13716056adfceb35bfc49ed768cf961bed632f08fe1482459c5b57a314bbf45e"
 metafile = true
 
 [[files]]
@@ -417,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "90d5ebd43ae612e60dbfaad5232d5fdd905ac8af40bba5c420253d7d55043c1e"
+hash = "9d2221afea391b82aaf0d79d1966f52e9551de1d20f2917985d4cfd109b937e9"
 metafile = true
 
 [[files]]
@@ -462,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
+hash = "bd820baeb58371de21159e297195d06954b43e41b9b2a8bf4d22b87eb590219c"
 metafile = true
 
 [[files]]
@@ -502,17 +527,22 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "c1f0cdc56731426c7298687be2ed89160cf752db7c33fd7d183b65945fa0f560"
+hash = "ad1a5236e1e2dc4ed8dab9d0d9676f832767487acea4dcb00f4d31ccb7030c0b"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
+hash = "a762918dfce6afcb2df6097d83705889ac9f3f2712ac3bc64f8a71ae1a142d04"
 metafile = true
 
 [[files]]
 file = "mods/tempad.pw.toml"
 hash = "9e2a80744672102d9f5cde3366e6089e70f5c46309bf0533bc33cc96701c6adc"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]
@@ -552,5 +582,15 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "7d79369f917b6b8432fd04cda858f7826aba89440b4d120177d494b6787a38ba"
+hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true

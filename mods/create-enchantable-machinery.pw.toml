@@ -1,0 +1,13 @@
+name = "Create: Enchantable Machinery"
+filename = "createenchantablemachinery-3.4.1+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/Mgp5DPJO/createenchantablemachinery-3.4.1%2Bmc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "1e120fea31d98715d4d13fe179d0e768821d73b19ce3bb2581dbc7dae871255535c33b1374a584886f8c94890130b1c25060a10f4aaffb4e05d979ef0e9b8d04"
+
+[update]
+[update.modrinth]
+mod-id = "eqrvp4NK"
+version = "Mgp5DPJO"

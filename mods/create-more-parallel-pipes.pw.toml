@@ -1,0 +1,13 @@
+name = "Create More: Parallel Pipes"
+filename = "cmparallelpipes-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5jfUeix5/versions/fpTLvDpe/cmparallelpipes-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "154674e8876b97b53fa0cc8406781ff657ec8a3594031cd3e1e9923f089f6b08c99ac644d091f624901112fbf0e9d5c302632e645d671f22a09cf7f7f8c6e5b6"
+
+[update]
+[update.modrinth]
+mod-id = "5jfUeix5"
+version = "fpTLvDpe"
