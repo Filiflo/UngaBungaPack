@@ -201,11 +201,6 @@ hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
-file = "mods/create-qol.pw.toml"
-hash = "7812c76dc36531286c56c6cd712f27ee0142059cb175bdceadba95055a2956bd"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c5ffade2f283a235d919ba957f5783fc0f5ca454242c7f0cd71ad600c59c899e"
 metafile = true
