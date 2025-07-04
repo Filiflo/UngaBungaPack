@@ -1,13 +1,13 @@
 name = "CreateBetterFps"
-filename = "Ponder-NeoForge-1.21.1-1.0.56.0.jar"
+filename = "createbetterfps-1.21.1-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/ZqZpI0nn/Ponder-NeoForge-1.21.1-1.0.56.0.jar"
+url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/xZbuO8GQ/createbetterfps-1.21.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "882ab063e6d87550d17237dffaeb3a49f0fbdf9dce476184e4342fa086b4e35696b4d0ba327aa5c45073f6baa7b5682fc021d2d39eecd259f42fd51d73b97c46"
+hash = "8de6888133626f035d340516411e28835ef632b9ad3dba1cc6893f6c606f822036286ed3b0b130dc4a8b92868dd3a08a3090f2c0330ca3574cb317633480bb3f"
 
 [update]
 [update.modrinth]
 mod-id = "lMYIHZNH"
-version = "ZqZpI0nn"
+version = "xZbuO8GQ"

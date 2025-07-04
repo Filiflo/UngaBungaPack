@@ -1,13 +1,13 @@
 name = "Bagus Lib"
-filename = "bagus_lib-1.21.1-13.17.0.jar"
+filename = "bagus_lib-1.21.1-13.18.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/95nSN4Rd/versions/YaFpJQ3O/bagus_lib-1.21.1-13.17.0.jar"
+url = "https://cdn.modrinth.com/data/95nSN4Rd/versions/cnQ0kf6B/bagus_lib-1.21.1-13.18.0.jar"
 hash-format = "sha512"
-hash = "782cb50b1a5dc4623a77897d8b18b4ece17aed10c1b8729060d7435450044463806c5ea88b648ea280c6cd79f33956d1a433268ed958ff85b53d32d8845858b2"
+hash = "60a1121d59100c1615dac63b67095787c03f6d76a3772da8c945f9caa2893767c2badd64beb6f7b17c9ec17b1a9dc0b95f685a218ab943830fc25dca43d14ad7"
 
 [update]
 [update.modrinth]
 mod-id = "95nSN4Rd"
-version = "YaFpJQ3O"
+version = "cnQ0kf6B"

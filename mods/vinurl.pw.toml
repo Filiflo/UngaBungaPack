@@ -1,13 +1,13 @@
 name = "VinURL Music"
-filename = "vinurl-1.7.1+mc1.21.1.jar"
+filename = "vinurl-1.8.0+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5PsMUIsq/versions/tsQSnctK/vinurl-1.7.1%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/5PsMUIsq/versions/tBxY2E3H/vinurl-1.8.0%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "76e0d84c20c638274a47b13f73cee995c235a2ea2c6a7c2d8bed40cc2329544b446832c2ecf563ca27b88f97174a5128310e3ac1d076186c4b5cbc22e3496b76"
+hash = "5126566162bd3094dda8a75860b26532a105b795aff2e4f36f91160335844d72961689031ec0af81ccbd65004bef453e2de1bcd6e9ebb1b3e7f4cd54fc959136"
 
 [update]
 [update.modrinth]
 mod-id = "5PsMUIsq"
-version = "tsQSnctK"
+version = "tBxY2E3H"
