@@ -1,6 +1,6 @@
 name = "UngaBungaPack"
 author = "Filiflo"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "54353d6ad95ceadaf67b88a698ded3d942b9470ed34d28315c0e5f7f9ec79df1"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.176"
+neoforge = "21.1.186"
