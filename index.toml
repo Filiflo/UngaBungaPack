@@ -166,6 +166,11 @@ hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true
 
 [[files]]
+file = "mods/create-meta-logistics.pw.toml"
+hash = "29902e580c344ae33d9756a056c14083d298ab5073813d0ca05b6ea97380797f"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
@@ -206,11 +211,6 @@ hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
 metafile = true
 
 [[files]]
-file = "mods/create-stuff-additions.pw.toml"
-hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
-metafile = true
-
-[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "509f86c60cd8a8663bec8c540d3f99066ad771a789fa1dcc6aaf51773168df33"
 metafile = true
@@ -228,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "e5e2d7040bc5f0f67a88230657caac6cf653066af74aa34ef91b734b34bc453d"
 metafile = true
 
 [[files]]
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "e1d124bdf0948a96ff53cbdcfdaed5d5c2be8bd3b889ae4db0326e23c8e27700"
 metafile = true
 
 [[files]]
@@ -386,6 +396,11 @@ hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
 metafile = true
 
 [[files]]
+file = "mods/laser-bridges-and-doors.pw.toml"
+hash = "cfda8c2cfbc934acb79111a2ef2f745298e75a3df5e2e348cdd8901420d37c16"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
@@ -433,6 +448,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "0dc2f3076d87b16e967d913e45cb56ed5130f6ede7bb5ec070be7790f47d0251"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "c09bb699382cbd252a9a420ac28df3d41ab2616527de9d3e928939c97e510b96"
 metafile = true
 
 [[files]]
