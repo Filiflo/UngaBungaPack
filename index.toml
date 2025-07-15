@@ -16,6 +16,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/autohud.pw.toml"
+hash = "1d39c4b2c4554ef1532b3f0d22e6a06d8750ce11acb2f51ba7d78868c7f4cdb7"
+metafile = true
+
+[[files]]
 file = "mods/bagus-lib.pw.toml"
 hash = "1da889f38c14747e972844126b21ee3410c36676dbdc50492e45f3bfd3b58ee2"
 metafile = true
@@ -121,6 +126,11 @@ hash = "a75366f4e1b59905865a4f848ff5dc3a591b92b12483fdc8c1be10bbf5e85d09"
 metafile = true
 
 [[files]]
+file = "mods/create-compressed.pw.toml"
+hash = "a946542ae4970e35a3f721b16872d2c66e62235778eb640c4102c1faaa008b3e"
+metafile = true
+
+[[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "f3d9737e7a571510c0a464f051d2d842ca018c05ad91eb52f6d4726e17edf6f1"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "b299e9a1001b2a035f93a1e2cc0873f648032b31f89b1aaea24af98eab6f9d61"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
 metafile = true
 
 [[files]]
@@ -191,6 +206,11 @@ hash = "fc9c7af256e6d832ee8d8187ebb8e1b732c107f912f8cbfc6a93db4a46a5a554"
 metafile = true
 
 [[files]]
+file = "mods/create-nether-industry.pw.toml"
+hash = "6b2180df22c4bf06e46279a8d36b7ec6597828f10c81e01a8094ecdc0ab90e19"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "6cf53d31ef36522ed9fd8273a94a5ca71af7cf986fc79733448f9eaa07862ac1"
 metafile = true
@@ -203,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
+metafile = true
+
+[[files]]
+file = "mods/create-ranged.pw.toml"
+hash = "662e6a8b27bd68bc7565a0d8ff24c8f37956db0eb8589183e61850d03721fb64"
 metafile = true
 
 [[files]]
@@ -288,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/enchanter-fix.pw.toml"
 hash = "88bc9ad6bf245dd54efcb1f09eed0c8686c69b5c7c1a187e210183308913d30c"
-metafile = true
-
-[[files]]
-file = "mods/enchants-plus.pw.toml"
-hash = "9fb26a4f6979003bfa313080bcd816d552d6f6250ca5eca5d6a7510708d23d11"
 metafile = true
 
 [[files]]

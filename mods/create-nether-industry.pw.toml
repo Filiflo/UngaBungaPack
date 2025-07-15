@@ -1,0 +1,13 @@
+name = "Create: Nether Industry"
+filename = "createnetherindustry-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N7WPmTgv/versions/38rrmtnC/createnetherindustry-0.2.2.jar"
+hash-format = "sha512"
+hash = "abfe21635507ac7a888be37da942b89af56233f31c19e52d878c99f8a0a3ba69418f0d4a2137eeeeb3cc0fce69ab3f43a64bd6b6f604ee1a8c81f021aa491fa6"
+
+[update]
+[update.modrinth]
+mod-id = "N7WPmTgv"
+version = "38rrmtnC"
