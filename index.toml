@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "1d39c4b2c4554ef1532b3f0d22e6a06d8750ce11acb2f51ba7d78868c7f4cdb7"
+hash = "2ab0ca5ecff6b9aa8d89ddc22af68c364cd2dd086acf78952ee0b99c58f639ca"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "0ab2d02d164657b3126b79113e5a4fb9611fbc0c5f89c39aed037677cef1bd50"
+hash = "2e5aa44eed06c57edccfa1932f04f76951fac3ecd31741bd35474d2f351ee7c7"
 metafile = true
 
 [[files]]
