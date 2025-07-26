@@ -16,11 +16,6 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
-file = "mods/autohud.pw.toml"
-hash = "2ab0ca5ecff6b9aa8d89ddc22af68c364cd2dd086acf78952ee0b99c58f639ca"
-metafile = true
-
-[[files]]
 file = "mods/bagus-lib.pw.toml"
 hash = "1da889f38c14747e972844126b21ee3410c36676dbdc50492e45f3bfd3b58ee2"
 metafile = true
@@ -33,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
-metafile = true
-
-[[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "2e5aa44eed06c57edccfa1932f04f76951fac3ecd31741bd35474d2f351ee7c7"
 metafile = true
 
 [[files]]
