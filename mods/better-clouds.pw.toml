@@ -14,4 +14,4 @@ version = "NzbGi8mq"
 
 [option]
 optional = true
-default = true
+default = false
